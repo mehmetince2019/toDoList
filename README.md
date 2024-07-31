@@ -28,7 +28,10 @@ bunun icin bir websitesi yaptim
 2- sitenizde "td_demo" isimli bir folder olusturup tüm dosyalari icine yükleyin 
 3- herbir dosyayi acip (gerekli ise)  xx li bölümleri kendinize göre uyarlayin
 2- web sitenizde database olusturun ( db , user ve passwd yi not alin) 
-3- sql dosyasini pho myadmin icinde calistirin
+3- sql dosyasini pho myadmin icinde calistirin 
+          ( https://github.com/mehmetince2019/toDoList/blob/main/sql_td_db.txt ) 
+              bu dosyayi acip icerigini sql seklesin de calistirin
+
 
 
 --------------------
