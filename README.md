@@ -1,7 +1,7 @@
 # toDoList
 
-her sabah güne baslarken kagit kalem alip yapiacaklar  listesi yapiyorum 
-önceden onenote veya jooplin'i  acip  sonra bos bir word sayfasi acip o gün yapilacaklari liste yapiyordum. 
+her sabah güne baslarken kagit kalem alip yapiacaklar  listesi yapiyorum <br>
+önceden onenote veya jooplin'i  acip  sonra bos bir word sayfasi acip o gün yapilacaklari liste yapiyordum. <br>
 simdi bunu pratik sekilde cep tel ekraninda görmek istiyorum.  görevler tamamlandikca tik atacagim 
 
 amac / tanim  :
