@@ -21,8 +21,9 @@ aksam tamamlananlar asive tamamlanmayanlar ana listeye geri islenecek
 
 ---------------------
 
-sistem databasi olarak php mysql kullaniyor 
+sistem database olarak php mysql kullaniyor 
 bunun icin bir websitesi yaptim 
+demo linbki asagida 
 
 1- td_demo php dosylarinin oldugu zip dosyasini indirin... 
 2- sitenizde "td_demo" isimli bir folder olusturup tüm dosyalari icine yükleyin 
