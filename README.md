@@ -7,11 +7,11 @@ simdi bunu pratik sekilde cep tel ekraninda görmek istiyorum.  görevler tamaml
 amac / tanim  :<br>
 o gün yapilmasi gerekenleri listeleyecek  bir uygulama . 
 
-Platorm: Android   ( dtabase php /msql bir websitesinden olacak) 
-veri girisi pratik olmali
-bugün yapilacaklar bölümü  
-tamamlananlarin üstü cizilip asagi alinacak ..  
-aksam tamamlananlar asive tamamlanmayanlar ana listeye geri islenecek  
+Platorm: Android  (database php/msql bir websitesinde olacak) <br>
+veri girisi pratik olmali<br>
+bugün yapilacaklar bölümü  <br>
+tamamlananlarin üstü cizilip asagi alinacak ..  <br>
+aksam tamamlananlar asive tamamlanmayanlar ana listeye geri islenecek  <br>
 ---------------------
 
 sistem database olarak php mysql kullaniyor <br>
@@ -25,19 +25,22 @@ websitesini / dataabasi yapmak icin : <br>
 2- web sitenizde database olusturun ( db , user ve passwd yi not alin) <br>
 3- sql dosyasini pho myadmin icinde calistirin <br>
           ( https://github.com/mehmetince2019/toDoList/blob/main/sql_td_db.txt ) <br>
-              bu dosyayi acip icerigini sql seklesin de calistirin<br>
+              bu dosyayi acip icerigini sql sekmesin de calistirin<br>
 
---------------------
+---------------------------------------<br>
 
 demo :   
-https://ince.one/td_demo/index1.php
-admin
-1234
---------------------
+https://ince.one/td_demo/index1.php  <br>
+admin<br>
+1234<br>
+---------------------------------------------<br>
 
-apk yapmak icin  app inventor (https://appinventor.mit.edu/  ) sitesini kullancagiz <br>
+apk yapmak icin  app inventor (https://appinventor.mit.edu/  )<br> 
+sitesini kullancagiz <br>
+
 bu sayfada bir hesap acin . <br>
 yeni proje acin. <br>
+
 projeye sadece web component ekleyin ve kodu derleyip indirin. cep telefonunuza aktarin <br>
 
 bu islemleri göstren pptx dosyasini su lnkten indirebilirsiniz <br>
